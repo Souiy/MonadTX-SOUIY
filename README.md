@@ -2,7 +2,7 @@
 MonadTX V4
 
 ## 1. Clone Repository
-git clone https://github.com/Souiy/Souiy/MonadTX-SOUIY
+git clone https://github.com/Souiy/MonadTX-SOUIY
 
 <button onclick="navigator.clipboard.writeText('git clone https://github.com/Souiy/MonadTX-SOUIY')">📋 Copy</button>
 
