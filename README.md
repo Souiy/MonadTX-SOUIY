@@ -2,14 +2,14 @@
 MonadTX V4
 
 ## 1. Clone Repository
-git clone https://github.com/Souiy/Souiy/MonadTX-SOUIY.git
+git clone https://github.com/Souiy/Souiy/MonadTX-SOUIY
 
-<button onclick="navigator.clipboard.writeText('git clone https://github.com/Souiy/MonadTX-SOUIY.git')">📋 Copy</button>
+<button onclick="navigator.clipboard.writeText('git clone https://github.com/Souiy/MonadTX-SOUIY')">📋 Copy</button>
 
 ---
 
 ## 2. Masuk ke folder
-cd PriorAutoBot-SOUIY
+cd MonadTX-SOUIY
 
 <button onclick="navigator.clipboard.writeText('cd MonadTX-SOUIY')">📋 Copy</button>
 
