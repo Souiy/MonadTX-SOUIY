@@ -272,7 +272,7 @@ function clearTransactionLogs() {
 
 const screen = blessed.screen({
   smartCSR: true,
-  title: "NT Exhaust",
+  title: "SOUIY",
   fullUnicode: true,
   mouse: true
 });
@@ -288,7 +288,7 @@ const headerBox = blessed.box({
   tags: true,
   style: { fg: "white", bg: "default" }
 });
-figlet.text("SOUIY".toUpperCase(), { font: "Speed", horizontalLayout: "default" }, (err, data) => {
+figlet.text("*SOUIY*".toUpperCase(), { font: "Speed", horizontalLayout: "default" }, (err, data) => {
   if (err) headerBox.setContent("{center}{bold}MONAD AUTO SWAP{/bold}{/center}");
   else headerBox.setContent(`{center}{bold}{bright-cyan-fg}${data}{/bright-cyan-fg}{/bold}{/center}`);
   safeRender();
